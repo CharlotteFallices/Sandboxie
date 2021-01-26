@@ -1,40 +1,5 @@
 # Sandboxie
 
-Sandboxie is a sandbox-based isolation software for 32- and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
-
-
-## Project maintenance
-2004 - 2013 Ronen Tzur
-
-2013 - 2017 Invincea Inc.
-
-2017 - 2020 Sophos Group plc
-
-Open Source release
-
-2020 onwards David Xanatos
-
-
-## Helpful Contributors
-- diversenok - Security analysis & PoC's
-- stephtr - CI and Certification
-- TechLord / Team-IRA - Reversing
-- isaak654 - UI fixes and Templates
-- typpos - UI improvement sugestions
-- cricri-pingouin - UI fixes
-- Valinwolf - UI / Icons
-- mpheath - help with inno setup
-
-### Translators
-- yuhao2348732 - ZH
-- nkh0472 - CN
-- bastik-1001 - DE
-- JNylson - PT
-- lufog - RU
-
-More volunteers welcome ;)
-
-## Support the project
-If you like the tool please consider supporting it on Patreon: https://www.patreon.com/DavidXanatos
-
-Or Donating directly via the PayPal button on my website: https://xanasoft.com
+`Sandboxie`是用于32位与64位的Windows的沙箱隔离软件.
+它创建了一个类似于沙箱的隔离操作环境,在其中可以运行或安装应用程序,而无需永久修改本地文件,硬件设备或Windows注册表.
+相对安全的隔离的虚拟环境使其能够对不受信任的应用程序与Web浏览进行安全测试.
